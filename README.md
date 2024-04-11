@@ -1,6 +1,4 @@
-# ios102-FinalProject
-
-# Spotify Clone
+# iOS102-FinalProject: Spotify Clone
 
 ## Table of Contents
 
