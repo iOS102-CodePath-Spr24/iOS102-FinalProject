@@ -1,6 +1,6 @@
 # List 3-5 apps and 2-3 features that make them stand out
 
-## Aaron
+### Aaron
 
 **Instagram**
 - See posts that you may be interested in based on your activity
