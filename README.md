@@ -59,7 +59,7 @@ Will try to implement as many features as possible - MVP would at least allow us
 * Shows users saved songs and playlists
 * Playlist will be a list of songs user has added to it
 
-- [ ] Playlist detail Screen
+- [ ] Playlist Detail Screen
 * Shows songs saved in a playlist
 * Playlists will be persisted upong user login
 
