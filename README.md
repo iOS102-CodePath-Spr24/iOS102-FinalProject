@@ -41,6 +41,7 @@ Will try to implement as many features as possible - MVP would at least allow us
 
 * User can play songs - this might be limited or tricky because of copyright reasons and the limitations of the Spotify API. Maybe we can access through our own accounts somehow?
 * User can see more information about things other than songs like more details about the artists or albums.
+* User can search for more than just songs
 
 ### 2. Screen Archetypes
 - [ ] Login Screen
