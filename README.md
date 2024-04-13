@@ -96,8 +96,7 @@ Will try to implement as many features as possible - MVP would at least allow us
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section]
-
+<img src="https://github.com/iOS102-CodePath-Spr24/iOS102-FinalProject/blob/main/Wireframe%20Image.png" width=600>
 
 ## Schema 
 
