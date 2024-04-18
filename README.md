@@ -126,4 +126,4 @@ Will try to implement as many features as possible - MVP would at least allow us
 
 Here's a walkthrough of implemented user stories:
 
-<img src='iOS102-GroupProj-Sprint1-WalkthroughGif' title='Group Proj Sprint 1 Walkthrough gif' width='' alt='Sprint 1 Video Walkthrough' />
+<img src='iOS102-GroupProj-Sprint1-WalkthroughGif.gif' title='Group Proj Sprint 1 Walkthrough gif' width='' alt='Sprint 1 Video Walkthrough' />
