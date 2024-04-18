@@ -121,3 +121,9 @@ Will try to implement as many features as possible - MVP would at least allow us
 - Home screen and library screen will access database to display a user's saved songs and playlists, will not pull from API here. Will user either a Parse or Firebase database to store and pull information from.
 - Search screen will pull from Spotify API to access songs and their information.
 - Endpoint used will be a list of songs from Spotify API, so will be some form of a '[GET] /songs' type of call.
+
+## Sprint 1 Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='iOS102-Proj6-Walkthrough.gif' title='Group Proj Sprint 1 Walkthrough gif' width='' alt='Proj 6 Video Walkthrough' />
