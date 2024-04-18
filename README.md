@@ -30,18 +30,18 @@ Will try to implement as many features as possible - MVP would at least allow us
 
 **Required Must-have Stories**
 
-* User can sign up for an account and use it to login after
-* Data is stored in a database for data persistence (user and song data)
-* User can view information about songs, such as the artist and album details
-* User can save songs to a playlist
-* User can search for songs
-* Screens are designed to match screens in real Spotify app as closely as possible
+- [ ] User can sign up for an account and use it to login after
+- [ ] Data is stored in a database for data persistence (user and song data)
+- [ ] User can view information about songs, such as the artist and album details
+- [ ] User can save songs to a playlist
+- [ ] User can search for songs
+- [ ] Screens are designed to match screens in real Spotify app as closely as possible
 
 **Optional Nice-to-have Stories**
 
-* User can play songs - this might be limited or tricky because of copyright reasons and the limitations of the Spotify API. Maybe we can access through our own accounts somehow?
-* User can see more information about things other than songs like more details about the artists or albums.
-* User can search for more than just songs
+- [ ] User can play songs - this might be limited or tricky because of copyright reasons and the limitations of the Spotify API. Maybe we can access through our own accounts somehow?
+- [ ] User can see more information about things other than songs like more details about the artists or albums.
+- [ ] User can search for more than just songs
 
 ### 2. Screen Archetypes
 - [ ] Login Screen
