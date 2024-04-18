@@ -35,7 +35,7 @@ Will try to implement as many features as possible - MVP would at least allow us
 - [ ] User can view information about songs, such as the artist and album details
 - [ ] User can save songs to a playlist
 - [ ] User can search for songs
-- [ ] Screens are designed to match screens in real Spotify app as closely as possible
+- [x] Screens are designed to match screens in real Spotify app as closely as possible (in progress)
 
 **Optional Nice-to-have Stories**
 
@@ -56,11 +56,11 @@ Will try to implement as many features as possible - MVP would at least allow us
 * User can search for songs by the title, artist, or album
 * will display basic information about each song in search
 
-- [ ] Library Screen
+- [x] Library Screen
 * Shows users saved songs and playlists
 * Playlist will be a list of songs user has added to it
 
-- [ ] Playlist Detail Screen
+- [x] Playlist Detail Screen
 * Shows songs saved in a playlist
 * Playlists will be persisted upong user login
 
@@ -90,9 +90,9 @@ Will try to implement as many features as possible - MVP would at least allow us
   * Leads to song or playlist detail screen depending on which is clicked on
 - [ ] **Search Screen**
   * Leads to song detail screen after song is clicked on 
-- [ ] **Library Screen**
+- [x] **Library Screen**
   * Leads to playlist or song detail screen depending on which is clicked on
-- [ ] **Playlist Detail Screen**
+- [x] **Playlist Detail Screen**
   * Leads to song detail screen if a song is clicked on
 
 ## Wireframes
@@ -126,4 +126,4 @@ Will try to implement as many features as possible - MVP would at least allow us
 
 Here's a walkthrough of implemented user stories:
 
-<img src='iOS102-Proj6-Walkthrough.gif' title='Group Proj Sprint 1 Walkthrough gif' width='' alt='Proj 6 Video Walkthrough' />
+<img src='iOS102-Sprint1-Walkthrough.gif' title='Group Proj Sprint 1 Walkthrough gif' width='' alt='Sprint 1 Video Walkthrough' />
