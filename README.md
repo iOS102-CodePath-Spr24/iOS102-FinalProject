@@ -64,7 +64,7 @@ Will try to implement as many features as possible - MVP would at least allow us
 * Shows songs saved in a playlist
 * Playlists will be persisted upong user login
 
-- [ ] Song Detail Screen
+- [x] Song Detail Screen
 * Displays information about a song
 * Will be pulled from Spotify API
 * Displays name, album cover, artist, etc
@@ -73,9 +73,9 @@ Will try to implement as many features as possible - MVP would at least allow us
 
 **Tab Navigation** (Tab to Screen)
 
-- [ ] Tab 1: Home screen
-- [ ] Tab 2: Search screen
-- [ ] Tab 3: Library screen
+- [x] Tab 1: Home screen
+- [x] Tab 2: Search screen
+- [x] Tab 3: Library screen
 - Will use bottom navigation bar
 - Login screen will be first screen for user to see
 - Home screen will be initial screen after login
@@ -127,3 +127,9 @@ Will try to implement as many features as possible - MVP would at least allow us
 Here's a walkthrough of implemented user stories:
 
 <img src='iOS102-GroupProj-Sprint1-WalkthroughGif.gif' title='Group Proj Sprint 1 Walkthrough gif' width='' alt='Sprint 1 Video Walkthrough' />
+
+## Sprint 2 Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='iOS102-GroupProj-Sprint2-WalkthroughGif.gif' title='Group Proj Sprint 2 Walkthrough gif' width='' alt='Sprint 2 Video Walkthrough' />
