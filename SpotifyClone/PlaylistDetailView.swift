@@ -49,9 +49,9 @@ struct SongRow: View {
                 } //vstack
                 Spacer()
             } // h stack
-        } // z stack */
-    }
-}
+        } // z stack
+    } // body
+} // struct
 
 #Preview {
     PlaylistDetailView()
