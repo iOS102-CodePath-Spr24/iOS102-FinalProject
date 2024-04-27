@@ -48,11 +48,11 @@ Will try to implement as many features as possible - MVP would at least allow us
 * User can sign up for account
 * User can login if account is already created
 
-- [ ] Home Screen
+- [x] Home Screen
 * Shows user's recent songs and playlists
 * Will be initial screen after login
 
-- [ ] Search Screen
+- [x] Search Screen
 * User can search for songs by the title, artist, or album
 * will display basic information about each song in search
 
